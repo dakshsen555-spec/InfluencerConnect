@@ -48,33 +48,6 @@ InfluencerConnect helps bootstrapped startups and local businesses (who cannot a
 
 ---
 
-## 🚀 Quick Start
-
-1. Clone or navigate into the workspace:
-   ```bash
-   cd "c:\Users\ASUS\Downloads\C2C hack"
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. (Optional) Configure API keys in `.env.local`:
-   ```bash
-   GEMINI_API_KEY=your_gemini_api_key
-   ```
-   *(Note: The app comes with high-fidelity semantic and generative fallbacks so it runs and demos completely even without API keys!)*
-
-4. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
 ## 📂 Project Structure
 
 ```
